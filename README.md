@@ -1,4 +1,4 @@
-# qualityhosting_api
+# Qualityhosting API
 An API for Qualityhosting
 
 # Example
